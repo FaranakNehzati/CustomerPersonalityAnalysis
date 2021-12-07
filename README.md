@@ -56,9 +56,13 @@ I enclude a picture of the Dashboard here:
 
 ## Results and insights
 I identify clusters with the relative number that model gave them. Each one has the following characteristics:
+
 Cluster 0. Lowest income overall. Second high buyer. They have the most kids. We need to focus on low cost campaigns and sales to target them.
+
 Cluster 1. Low income and low spenders. Usually single. We need to find out why they don't purchase more.
+
 Cluster 2. The Elite cluster. They are second high earners and highest spenders. These ones need to be targeted for all high end campaigns. They are usually in a relationship and have the second most kids.
+
 Cluster 3. The richest cluster. But second low spenders. They have the best response to campaigns and don't have many kids. We need to focus on this cluster to find out why these high earners don't spend so much money. Maybe a different type of campaign or more options can make these people buy more.
 
 
