@@ -42,8 +42,7 @@ SELECT
 FROM
   `capstoneproject-334219.customerData.customerData`
   ```
-To see the methodology and steps taken in Python go to Jupyter Notebook.
-[this link](https://github.com/FaranakNehzati/CustomerPersonalityAnalysis/blob/main/FN_capstone.ipynb)
+### To see the methodology and steps taken in Python go to Jupyter Notebook.[this link](https://github.com/FaranakNehzati/CustomerPersonalityAnalysis/blob/main/FN_capstone.ipynb)
 
 ## Further EDA in Tableau
 
