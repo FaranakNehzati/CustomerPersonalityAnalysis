@@ -36,7 +36,7 @@ SELECT
   AcceptedCmp5,
   Complain,
   Response,
-  2014 - Year_Birth AS Age,
+  2014 - Year_Birth AS Age,  --assuming the survey taken in 2014
   Kidhome + Teenhome AS Children,
   MntWines + MntFruits + MntMeatProducts + MntFishProducts + MntSweetProducts + MntGoldProds AS totalMnt
 FROM
